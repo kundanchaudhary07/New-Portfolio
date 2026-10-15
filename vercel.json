@@ -1,0 +1,14 @@
+
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/projects/:slug",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/about/:path*",
+      "destination": "/index.html"
+    }
+  ]
+}
