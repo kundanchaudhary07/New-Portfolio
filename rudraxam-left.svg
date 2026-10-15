@@ -1,0 +1,16 @@
+<svg width="171" height="851" viewBox="0 0 171 851" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#FB2223" stroke-width="6" stroke-linejoin="round" paint-order="stroke fill">
+  <!-- K -->
+  <path d="M20 25 H55 V75 L116 25 H151 L88 80 L151 135 H116 L55 85 V135 H20 Z" fill="#FB2223"/>
+  <!-- U -->
+  <path d="M20 160 H55 V235 C55 248 68 252 85.5 252 C103 252 116 248 116 235 V160 H151 V235 C151 268 125 270 85.5 270 C46 270 20 268 20 235 Z" fill="#FB2223"/>
+  <!-- N -->
+  <path d="M20 295 H55 L116 375 V295 H151 V405 H116 L55 325 V405 H20 Z" fill="#FB2223"/>
+  <!-- D -->
+  <path d="M20 430 H85 C125 430 151 450 151 485 C151 520 125 540 85 540 H20 Z M55 455 V515 H85 C105 515 116 505 116 485 C116 465 105 455 85 455 Z" fill="#FB2223"/>
+  <!-- A -->
+  <path d="M85.5 565 L151 675 H116 L102 650 H69 L55 675 H20 Z M85.5 605 L76 630 H95 Z" fill="#FB2223"/>
+  <!-- N -->
+  <path d="M20 700 H55 L116 780 V700 H151 V810 H116 L55 730 V810 H20 Z" fill="#FB2223"/>
+  </g>
+</svg>

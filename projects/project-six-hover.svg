@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="693" fill="none" viewBox="0 0 384 693">
+  <path fill="#151714" d="M0 0h384v693H0z"/>
+  <rect x="15" y="15" width="354" height="520" rx="16" fill="#2C1B10" stroke="#D97706" stroke-width="2"/>
+  <!-- Decorative Grid -->
+  <g opacity="0.1" stroke="#FFFFFF" stroke-width="1">
+    <line x1="15" y1="100" x2="369" y2="100"/>
+    <line x1="15" y1="200" x2="369" y2="200"/>
+    <line x1="15" y1="300" x2="369" y2="300"/>
+    <line x1="15" y1="400" x2="369" y2="400"/>
+    <line x1="100" y1="15" x2="100" y2="535"/>
+    <line x1="200" y1="15" x2="200" y2="535"/>
+    <line x1="300" y1="15" x2="300" y2="535"/>
+  </g>
+  <!-- Center circle icon -->
+  <circle cx="192" cy="180" r="54" fill="#D97706" opacity="0.15"/>
+  <circle cx="192" cy="180" r="28" fill="#FBBF24" opacity="0.8"/>
+  <path d="M192 165 L192 195 M177 180 L207 180" stroke="#151714" stroke-width="4" stroke-linecap="round"/>
+  <!-- Title -->
+  <text x="192" y="275" font-family="'Bowlby One SC', sans-serif" font-size="30" fill="#FBEEDE" text-anchor="middle" font-weight="900" letter-spacing="1">PROJECT SIX</text>
+  <rect x="72" y="300" width="240" height="26" rx="13" fill="#D97706" opacity="0.2"/>
+  <text x="192" y="318" font-family="'Afacad', sans-serif" font-size="14" fill="#FBBF24" text-anchor="middle" font-weight="600" letter-spacing="1">FULL-STACK & AI</text>
+  <!-- Tech badges -->
+  <text x="192" y="370" font-family="'Afacad', sans-serif" font-size="16" fill="#FBEEDE" text-anchor="middle" opacity="0.85">Python · FastAPI · AI / LLM</text>
+  <text x="192" y="420" font-family="'Afacad', sans-serif" font-size="14" fill="#999999" text-anchor="middle" font-style="italic">Project details will be added soon</text>
+  <text x="192" y="475" font-family="'Afacad', sans-serif" font-size="13" fill="#FBBF24" text-anchor="middle" font-weight="700">Click to view details →</text>
+</svg>

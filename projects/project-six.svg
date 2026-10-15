@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" fill="none">
+  <rect width="600" height="750" fill="#23160D"/>
+  <!-- Grid Matrix -->
+  <g stroke="#78350F" stroke-width="1" opacity="0.4">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="0" y1="600" x2="600" y2="600"/>
+    <line x1="120" y1="0" x2="120" y2="750"/>
+    <line x1="240" y1="0" x2="240" y2="750"/>
+    <line x1="360" y1="0" x2="360" y2="750"/>
+    <line x1="480" y1="0" x2="480" y2="750"/>
+  </g>
+  
+      <circle cx="300" cy="310" r="140" stroke="#F59E0B" stroke-width="2" stroke-dasharray="12 6" opacity="0.6"/>
+      <!-- AI Diamond Spark Core -->
+      <polygon points="300,190 380,310 300,430 220,310" stroke="#F59E0B" stroke-width="4" fill="#F59E0B" fill-opacity="0.2"/>
+      <polygon points="300,230 350,310 300,390 250,310" fill="#F59E0B" fill-opacity="0.4"/>
+      <circle cx="300" cy="310" r="24" fill="#FBEEDE"/>
+    
+  <!-- Title & Typography -->
+  <text x="300" y="580" font-family="'Bowlby One SC', sans-serif" font-size="34" fill="#FBEEDE" text-anchor="middle" font-weight="900" letter-spacing="2">PROJECT SIX</text>
+  <rect x="180" y="605" width="240" height="32" rx="16" fill="#F59E0B" opacity="0.2"/>
+  <text x="300" y="627" font-family="'Afacad', sans-serif" font-size="16" fill="#F59E0B" text-anchor="middle" font-weight="700" letter-spacing="1.5">FULL-STACK & AI</text>
+  <text x="300" y="675" font-family="'Afacad', sans-serif" font-size="15" fill="#999999" text-anchor="middle" font-style="italic">Project details will be added soon</text>
+</svg>

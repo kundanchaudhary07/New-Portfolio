@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="693" fill="none" viewBox="0 0 384 693">
+  <path fill="#151714" d="M0 0h384v693H0z"/>
+  <rect x="15" y="15" width="354" height="520" rx="16" fill="#1C1200" stroke="#D4A017" stroke-width="2.5"/>
+  <rect x="22" y="22" width="340" height="506" rx="13" fill="none" stroke="#D4A017" stroke-width="0.8" opacity="0.4"/>
+  <!-- Vertical rain lines background -->
+  <g opacity="0.07" stroke="#F7CB7C" stroke-width="1">
+    <line x1="40" y1="15" x2="40" y2="535"/> <line x1="70" y1="15" x2="70" y2="535"/>
+    <line x1="100" y1="15" x2="100" y2="535"/> <line x1="130" y1="15" x2="130" y2="535"/>
+    <line x1="160" y1="15" x2="160" y2="535"/> <line x1="192" y1="15" x2="192" y2="535"/>
+    <line x1="224" y1="15" x2="224" y2="535"/> <line x1="254" y1="15" x2="254" y2="535"/>
+    <line x1="284" y1="15" x2="284" y2="535"/> <line x1="314" y1="15" x2="314" y2="535"/>
+    <line x1="344" y1="15" x2="344" y2="535"/>
+  </g>
+  <!-- Title bar -->
+  <rect x="15" y="15" width="354" height="56" rx="16" fill="#3D2800" opacity="0.95"/>
+  <text x="192" y="54" font-family="'Bowlby One SC', sans-serif" font-size="30" fill="#F7CB7C" text-anchor="middle" font-weight="900" letter-spacing="1">CLOUD COST</text>
+  <!-- Arch/dome background -->
+  <path d="M70 300 A130 130 0 0 1 314 300" fill="#3D2800" opacity="0.6"/>
+  <!-- Cloud icon with dollar -->
+  <path d="M155 210 C145 210 135 200 135 188 C135 176 146 166 158 166 C161 155 170 146 182 146 C196 146 207 156 209 169 C217 170 225 178 225 187 C225 198 215 210 204 210 Z" fill="#3D2800" stroke="#D4A017" stroke-width="2.5"/>
+  <!-- Dollar sign -->
+  <circle cx="192" cy="188" r="24" fill="#D4A017"/>
+  <text x="192" y="196" font-family="'Bowlby One SC', sans-serif" font-size="22" fill="#1C1200" text-anchor="middle" font-weight="900">$</text>
+  <!-- Bar chart -->
+  <g fill="#D4A017" opacity="0.85">
+    <rect x="130" y="272" width="22" height="48" rx="3"/>
+    <rect x="162" y="256" width="22" height="64" rx="3"/>
+    <rect x="194" y="244" width="22" height="76" rx="3"/>
+    <rect x="226" y="232" width="22" height="88" rx="3"/>
+  </g>
+  <!-- Upward trend arrow -->
+  <path d="M140 330 L200 280 L240 295 L265 265" stroke="#F7CB7C" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="265,265 258,280 272,275" fill="#F7CB7C"/>
+  <!-- Category label -->
+  <rect x="80" y="348" width="224" height="28" rx="14" fill="#D4A017" opacity="0.2"/>
+  <text x="192" y="367" font-family="'Afacad', sans-serif" font-size="13" fill="#F7CB7C" text-anchor="middle" font-weight="700" letter-spacing="1.5">CLOUD COST OPTIMIZATION</text>
+  <!-- Tech stack -->
+  <text x="192" y="412" font-family="'Afacad', sans-serif" font-size="14" fill="#FBEEDE" text-anchor="middle" opacity="0.85">Python · AWS Cost Explorer · Boto3</text>
+  <text x="192" y="436" font-family="'Afacad', sans-serif" font-size="14" fill="#FBEEDE" text-anchor="middle" opacity="0.85">React.js · PostgreSQL</text>
+  <!-- Film strip bottom decoration -->
+  <rect x="15" y="498" width="354" height="37" rx="0" fill="#1C1200" opacity="0.9"/>
+  <g fill="#D4A017" opacity="0.7">
+    <rect x="25" y="505" width="20" height="22" rx="3"/>
+    <rect x="55" y="505" width="20" height="22" rx="3"/>
+    <rect x="85" y="505" width="20" height="22" rx="3"/>
+    <rect x="115" y="505" width="20" height="22" rx="3"/>
+    <rect x="145" y="505" width="20" height="22" rx="3"/>
+    <rect x="175" y="505" width="20" height="22" rx="3"/>
+    <rect x="205" y="505" width="20" height="22" rx="3"/>
+    <rect x="235" y="505" width="20" height="22" rx="3"/>
+    <rect x="265" y="505" width="20" height="22" rx="3"/>
+    <rect x="295" y="505" width="20" height="22" rx="3"/>
+    <rect x="325" y="505" width="20" height="22" rx="3"/>
+  </g>
+  <text x="192" y="560" font-family="'Afacad', sans-serif" font-size="12" fill="#D4A017" text-anchor="middle" font-weight="700">github.com/kundanchaudhary07</text>
+</svg>

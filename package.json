@@ -1,0 +1,17 @@
+{
+  "name": "kundan-chaudhary-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Kundan Chaudhary - Cloud & DevOps Engineer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "designer",
+    "ui-ux",
+    ],
+  "author": "Kundan Chaudhary",
+  "license": "ISC"
+}

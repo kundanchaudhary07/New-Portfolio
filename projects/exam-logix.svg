@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" fill="none">
+  <rect width="600" height="750" fill="#140D25"/>
+  <!-- Neural / AI Matrix -->
+  <g stroke="#3B2667" stroke-width="1" opacity="0.4">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="0" y1="600" x2="600" y2="600"/>
+    <line x1="120" y1="0" x2="120" y2="750"/>
+    <line x1="240" y1="0" x2="240" y2="750"/>
+    <line x1="360" y1="0" x2="360" y2="750"/>
+    <line x1="480" y1="0" x2="480" y2="750"/>
+  </g>
+  <!-- Cyber Eye / Proctoring Symbol -->
+  <circle cx="300" cy="320" r="160" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="12 8" opacity="0.6"/>
+  <path d="M150 320 Q 300 180 450 320 Q 300 460 150 320 Z" stroke="#A78BFA" stroke-width="4" fill="#3B2667" fill-opacity="0.3"/>
+  <circle cx="300" cy="320" r="64" fill="#8B5CF6" fill-opacity="0.4" stroke="#C4B5FD" stroke-width="3"/>
+  <circle cx="300" cy="320" r="28" fill="#FBEEDE"/>
+  <!-- AI Sparkles -->
+  <polygon points="300,160 306,176 322,182 306,188 300,204 294,188 278,182 294,176" fill="#FBBF24"/>
+  <polygon points="420,240 424,252 436,256 424,260 420,272 416,260 404,256 416,252" fill="#FBBF24"/>
+  <!-- Title & Typography -->
+  <text x="300" y="580" font-family="'Bowlby One SC', sans-serif" font-size="36" fill="#FBEEDE" text-anchor="middle" font-weight="900" letter-spacing="2">EXAM LOGIX</text>
+  <rect x="180" y="605" width="240" height="32" rx="16" fill="#8B5CF6" opacity="0.3"/>
+  <text x="300" y="627" font-family="'Afacad', sans-serif" font-size="16" fill="#C4B5FD" text-anchor="middle" font-weight="700" letter-spacing="1.5">FULL-STACK &amp; AI PLATFORM</text>
+  <text x="300" y="675" font-family="'Afacad', sans-serif" font-size="16" fill="#A78BFA" text-anchor="middle">React · Node · MongoDB · WebRTC · JWT</text>
+</svg>

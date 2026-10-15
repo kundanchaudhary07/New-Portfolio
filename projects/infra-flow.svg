@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" fill="none">
+  <rect width="600" height="750" fill="#0C1520"/>
+  <!-- Cyber Grid Background -->
+  <g stroke="#1E3A5F" stroke-width="1" opacity="0.35">
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="0" y1="600" x2="600" y2="600"/>
+    <line x1="120" y1="0" x2="120" y2="750"/>
+    <line x1="240" y1="0" x2="240" y2="750"/>
+    <line x1="360" y1="0" x2="360" y2="750"/>
+    <line x1="480" y1="0" x2="480" y2="750"/>
+  </g>
+  <!-- Central DevOps Rings & Nodes -->
+  <circle cx="300" cy="320" r="180" stroke="#0284C7" stroke-width="2" stroke-dasharray="10 8" opacity="0.6"/>
+  <circle cx="300" cy="320" r="120" stroke="#38BDF8" stroke-width="3" opacity="0.8"/>
+  <circle cx="300" cy="320" r="60" fill="#0369A1" fill-opacity="0.3" stroke="#38BDF8" stroke-width="4"/>
+  <!-- Infinity DevOps Loop -->
+  <path d="M220 320 C220 280 260 280 300 320 C340 360 380 360 380 320 C380 280 340 280 300 320 C260 360 220 360 220 320 Z" stroke="#38BDF8" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- Cloud Icon Header -->
+  <path d="M260 210 C245 210 235 195 235 180 C235 165 250 152 265 152 C270 135 285 125 300 125 C318 125 332 138 335 155 C345 157 355 167 355 180 C355 195 342 210 325 210 Z" fill="#38BDF8" opacity="0.9"/>
+  <!-- Metrics Waves -->
+  <path d="M120 480 Q 210 420 300 480 T 480 480" stroke="#0284C7" stroke-width="3" fill="none"/>
+  <path d="M120 510 Q 210 460 300 510 T 480 510" stroke="#38BDF8" stroke-width="2" fill="none" opacity="0.6"/>
+  <!-- Title & Typography -->
+  <text x="300" y="580" font-family="'Bowlby One SC', sans-serif" font-size="36" fill="#FBEEDE" text-anchor="middle" font-weight="900" letter-spacing="2">INFRA FLOW</text>
+  <rect x="180" y="605" width="240" height="32" rx="16" fill="#0369A1" opacity="0.4"/>
+  <text x="300" y="627" font-family="'Afacad', sans-serif" font-size="16" fill="#38BDF8" text-anchor="middle" font-weight="700" letter-spacing="1.5">CLOUD &amp; DEVOPS PLATFORM</text>
+  <text x="300" y="675" font-family="'Afacad', sans-serif" font-size="16" fill="#94A3B8" text-anchor="middle">Kubernetes · Terraform · Jenkins · Prometheus</text>
+</svg>
